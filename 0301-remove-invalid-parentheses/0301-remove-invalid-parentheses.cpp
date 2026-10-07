@@ -4,8 +4,6 @@ public:
     int removal;
     
     void remove(int i, int rm, int balance, string& s, string& subs) {
-        if (balance < 0) return;
-
         if (i == s.size()) {
             if (rm == removal && balance == 0)
                 ans.insert(subs);
