@@ -2,63 +2,47 @@ class Solution {
 public:
     unordered_set<string> ans;
     int removal;
-    bool valid(string s) {
-        int balance = 0;
-        for (char c : s) {
-            if (c == '(') balance++;
-            else if (c == ')') balance--;
-            if (balance < 0) return false;
-        }
-        return balance == 0;
-    }
-    void remove(int i, int rm, string& s, string subs) {
-        if (rm == removal) {
-            subs += s.substr(i, s.size() - i);
-            if (valid(subs)) ans.insert(subs);
-            return;
-        }
+    
+    void remove(int i, int rm, int balance, string& s, string& subs) {
+        if (balance < 0) return;
+
         if (i == s.size()) {
-            if (rm == removal && valid(subs))
+            if (rm == removal && balance == 0)
                 ans.insert(subs);
             return;
         }
         
+        // delete s[i]
         if ((s[i] == '(' || s[i] ==')') && rm < removal) {
-            remove(i + 1, rm + 1, s, subs);
+            remove(i + 1, rm + 1, balance, s, subs);
         }
-        remove(i + 1, rm, s, subs + s[i]);
+
+        // keep s[i]
+        subs += s[i];
+        if (s[i] == '(') balance++;
+        else if (s[i] == ')') balance--;
+
+        if (balance >= 0) remove(i + 1, rm, balance, s, subs);
+        subs.pop_back();
     }
     vector<string> removeInvalidParentheses(string s) {
-        int less = 0;
         int balance = 0;
-        int letter = 0;
+        removal = 0;
+
         for (char c : s) {
             if (c == '(') balance++;
             else if (c == ')') balance--;
-            else letter++;
 
             if (balance < 0) {
-                less++;
+                removal++;
                 balance++;
             }
         }
-        less += balance;
-        removal = less;
-        if (removal + letter == s.size()) {
-            string temp;
-            for (char c : s) {
-                if (c != '(' && c != ')') temp += c;
-            }
-            return {temp};
-        }
+        removal += balance;
 
-        remove(0, 0, s, "");
+        string subs;
+        remove(0, 0, 0, s, subs);
 
-        vector<string> res;
-        for (auto str : ans) {
-            res.push_back(str);
-        }
-
-        return res;
+        return vector<string>(ans.begin(), ans.end());
     }
 };
