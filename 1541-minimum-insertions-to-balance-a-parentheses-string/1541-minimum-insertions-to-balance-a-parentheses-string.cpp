@@ -1,10 +1,9 @@
 class Solution {
 public:
     int minInsertions(string s) {
-        int n = s.size();
         int cnt = 0, balance = 0;
 
-        for (int i = 0; i < n; ++i) {
+        for (int i = 0; i < s.size(); ++i) {
             if (s[i] == '(') {
                 balance += 2;
 
