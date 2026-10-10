@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sunruru1219/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2784-check-if-array-is-good](https://github.com/sunruru1219/leetcode/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,8 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sunruru1219/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2784-check-if-array-is-good](https://github.com/sunruru1219/leetcode/tree/master/2784-check-if-array-is-good) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sunruru1219/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Hash Table
+|  |
+| ------- |
+| [2784-check-if-array-is-good](https://github.com/sunruru1219/leetcode/tree/master/2784-check-if-array-is-good) |
 <!---LeetCode Topics End-->
