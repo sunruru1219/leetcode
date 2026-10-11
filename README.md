@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/sunruru1219/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1306-jump-game-iii](https://github.com/sunruru1219/leetcode/tree/master/1306-jump-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sunruru1219/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sunruru1219/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1306-jump-game-iii](https://github.com/sunruru1219/leetcode/tree/master/1306-jump-game-iii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sunruru1219/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/sunruru1219/leetcode/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2784-check-if-array-is-good](https://github.com/sunruru1219/leetcode/tree/master/2784-check-if-array-is-good) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/sunruru1219/leetcode/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
