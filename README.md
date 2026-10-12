@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sunruru1219/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunruru1219/leetcode/tree/master/0013-roman-to-integer) |
 | [0301-remove-invalid-parentheses](https://github.com/sunruru1219/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/sunruru1219/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sunruru1219/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunruru1219/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/sunruru1219/leetcode/tree/master/0169-majority-element) |
 | [2540-minimum-common-value](https://github.com/sunruru1219/leetcode/tree/master/2540-minimum-common-value) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sunruru1219/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunruru1219/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/sunruru1219/leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
