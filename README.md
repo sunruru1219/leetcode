@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sunruru1219/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sunruru1219/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunruru1219/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sunruru1219/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sunruru1219/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sunruru1219/leetcode/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/sunruru1219/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sunruru1219/leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sunruru1219/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sunruru1219/leetcode/tree/master/0088-merge-sorted-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sunruru1219/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sunruru1219/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sunruru1219/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunruru1219/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
