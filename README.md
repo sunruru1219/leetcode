@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sunruru1219/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/sunruru1219/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sunruru1219/leetcode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/sunruru1219/leetcode/tree/master/0274-h-index) |
 | [1306-jump-game-iii](https://github.com/sunruru1219/leetcode/tree/master/1306-jump-game-iii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sunruru1219/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/sunruru1219/leetcode/tree/master/2540-minimum-common-value) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sunruru1219/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sunruru1219/leetcode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/sunruru1219/leetcode/tree/master/0274-h-index) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sunruru1219/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/sunruru1219/leetcode/tree/master/2784-check-if-array-is-good) |
 ## Heap (Priority Queue)
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sunruru1219/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sunruru1219/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunruru1219/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sunruru1219/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
