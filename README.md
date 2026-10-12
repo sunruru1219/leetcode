@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sunruru1219/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sunruru1219/leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sunruru1219/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sunruru1219/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sunruru1219/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sunruru1219/leetcode/tree/master/0088-merge-sorted-array) |
 | [2540-minimum-common-value](https://github.com/sunruru1219/leetcode/tree/master/2540-minimum-common-value) |
 ## Enumeration
