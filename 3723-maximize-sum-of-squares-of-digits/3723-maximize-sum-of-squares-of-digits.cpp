@@ -3,16 +3,13 @@ public:
     string maxSumOfSquares(int num, int sum) {
         if (num * 9 < sum) return "";
         string ans;
-        while (sum > 0 && num > 0) {
-            ans += '0' + min(sum, 9);
-            sum -= min(sum, 9);
-            num--;
-        }
+        ans.reserve(num);
         while (num > 0) {
-            ans += '0';
+            int digit = min(sum, 9);
+            ans += '0' + digit;
+            sum -= digit;
             num--;
         }
-
         return ans;
     }
 };
