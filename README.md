@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunruru1219/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sunruru1219/leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/sunruru1219/leetcode/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/sunruru1219/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sunruru1219/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sunruru1219/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/sunruru1219/leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunruru1219/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sunruru1219/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunruru1219/leetcode/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/sunruru1219/leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/sunruru1219/leetcode/tree/master/0169-majority-element) |
 | [2540-minimum-common-value](https://github.com/sunruru1219/leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/sunruru1219/leetcode/tree/master/2784-check-if-array-is-good) |
@@ -239,5 +241,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunruru1219/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sunruru1219/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sunruru1219/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
