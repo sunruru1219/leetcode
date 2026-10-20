@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
+        if (ransomNote.size() > magazine.size()) return false;
         vector<int> mag(26, 0);
 
         for (char c : magazine) mag[c - 'a']++;
