@@ -11,11 +11,7 @@ public:
         bool increasing = true;
         int zero = 0;
         for (int i = 1; i < n; ++i) {
-            if (nums[i] - nums[i - 1] > 1) {
-                gapMoreThanOne++;
-                increasing = false;
-            }
-            else if (nums[i] - nums[i - 1] < -1) {
+            if (abs(nums[i] - nums[i - 1]) > 1) {
                 gapMoreThanOne++;
             }
 
@@ -24,6 +20,7 @@ public:
                 else increasing = false;
                 incre_set = true;
             }
+
             if (nums[i] == 0) zero = i;
         }
         if (abs(nums[n - 1] - nums[0]) > 1) gapMoreThanOne++;
@@ -35,9 +32,7 @@ public:
             return 1;
         }
 
-        if (increasing) {
-            return min(zero, n - zero + 2);
-        }
+        if (increasing) return min(zero, n - zero + 2);
         return min(n - zero, zero + 2);
     }
 };
