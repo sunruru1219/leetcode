@@ -38,7 +38,10 @@ public:
                 int dy = y + d.second;
 
                 if (0 <= dx && dx < m && 0 <= dy && dy < n) {
-                    if (grid[dx][dy] == 0) fake_land.push({dx, dy});
+                    if (grid[dx][dy] == 0) {
+                        fake_land.push({dx, dy});
+                        grid[dx][dy] = 1;
+                    }
                 }
             }
         }
@@ -69,7 +72,10 @@ public:
                         int dy = y + d.second;
 
                         if (0 <= dx && dx < m && 0 <= dy && dy < n) {
-                            if (grid[dx][dy] == 0) con.push({dx, dy});
+                            if (grid[dx][dy] == 0) {
+                                con.push({dx, dy});
+                                grid[dx][dy] = 1;
+                            }
                         }
                     }
                 }
