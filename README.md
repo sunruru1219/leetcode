@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunruru1219/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sunruru1219/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sunruru1219/leetcode/tree/master/0135-candy) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sunruru1219/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sunruru1219/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sunruru1219/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunruru1219/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/sunruru1219/leetcode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/sunruru1219/leetcode/tree/master/0289-game-of-life) |
 | [0427-construct-quad-tree](https://github.com/sunruru1219/leetcode/tree/master/0427-construct-quad-tree) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sunruru1219/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1254-number-of-closed-islands](https://github.com/sunruru1219/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/sunruru1219/leetcode/tree/master/1306-jump-game-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunruru1219/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sunruru1219/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sunruru1219/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sunruru1219/leetcode/tree/master/0274-h-index) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sunruru1219/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunruru1219/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sunruru1219/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/sunruru1219/leetcode/tree/master/2784-check-if-array-is-good) |
