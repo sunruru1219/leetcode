@@ -9,7 +9,9 @@ public:
         
         for (int x = 0; x < m; ++x) {
             for (int y = 0; y < n; ++y) {
+                // 無法抵達(x, y)或是那格是鏡子 都要跳過
                 if (dp[x][y] == 0 || grid[x][y] == 1) continue;
+                
                 // down
                 if (x + 1 < m) {
                     int x_ = x + 1;
@@ -21,7 +23,6 @@ public:
                         y_++;
                         char dir = 'R';
                         while (x_ < m && y_ < n && grid[x_][y_] == 1) {
-                            dp[x_][y_] = (dp[x_][y_] + dp[x][y]) % MOD;
                             if(dir == 'R') {
                                 x_++;
                                 dir = 'D';
@@ -47,7 +48,6 @@ public:
                         x_++;
                         char dir = 'D';
                         while (x_ < m && y_ < n && grid[x_][y_] == 1) {
-                            dp[x_][y_] = (dp[x_][y_] + dp[x][y]) % MOD;
                             if (dir == 'R') {
                                 x_++;
                                 dir = 'D';
