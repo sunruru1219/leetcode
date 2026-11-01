@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/sunruru1219/leetcode/tree/master/0289-game-of-life) |
 | [0427-construct-quad-tree](https://github.com/sunruru1219/leetcode/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sunruru1219/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sunruru1219/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/sunruru1219/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/sunruru1219/leetcode/tree/master/1306-jump-game-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunruru1219/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sunruru1219/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sunruru1219/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sunruru1219/leetcode/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sunruru1219/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/sunruru1219/leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sunruru1219/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
