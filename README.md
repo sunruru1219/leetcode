@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/sunruru1219/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/sunruru1219/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sunruru1219/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/sunruru1219/leetcode/tree/master/1306-jump-game-iii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sunruru1219/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Stack
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sunruru1219/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sunruru1219/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/sunruru1219/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sunruru1219/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/sunruru1219/leetcode/tree/master/1306-jump-game-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunruru1219/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sunruru1219/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/sunruru1219/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sunruru1219/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/sunruru1219/leetcode/tree/master/1306-jump-game-iii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sunruru1219/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Two Pointers
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sunruru1219/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sunruru1219/leetcode/tree/master/0383-ransom-note) |
+| [1267-count-servers-that-communicate](https://github.com/sunruru1219/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/sunruru1219/leetcode/tree/master/0289-game-of-life) |
 | [0427-construct-quad-tree](https://github.com/sunruru1219/leetcode/tree/master/0427-construct-quad-tree) |
 | [1254-number-of-closed-islands](https://github.com/sunruru1219/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sunruru1219/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sunruru1219/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/sunruru1219/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sunruru1219/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -334,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sunruru1219/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/sunruru1219/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sunruru1219/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sunruru1219/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Quicksort
 |  |
