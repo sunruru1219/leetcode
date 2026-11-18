@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sunruru1219/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sunruru1219/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sunruru1219/leetcode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/sunruru1219/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/sunruru1219/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sunruru1219/leetcode/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/sunruru1219/leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sunruru1219/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sunruru1219/leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/sunruru1219/leetcode/tree/master/0224-basic-calculator) |
 | [1021-remove-outermost-parentheses](https://github.com/sunruru1219/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sunruru1219/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sunruru1219/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sunruru1219/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sunruru1219/leetcode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/sunruru1219/leetcode/tree/master/0224-basic-calculator) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sunruru1219/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sunruru1219/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/sunruru1219/leetcode/tree/master/2409-count-days-spent-together) |
@@ -364,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sunruru1219/leetcode/tree/master/0155-min-stack) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/sunruru1219/leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
